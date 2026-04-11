@@ -32,3 +32,9 @@ body{
     margin-bottom: 10px;
     
 }
+
+.clima-localidad-detalle{
+    background:linear-gradient(rgba(210, 191, 191, 0), rgba(26, 2, 2, 0.197)), url('/assets/img/cielo-azul-fondo-clima-nubes_261642-70.avif');
+    background-size: cover; 
+    background-position: center;
+}
