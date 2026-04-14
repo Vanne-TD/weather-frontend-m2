@@ -104,7 +104,7 @@ Este proyecto fue desarrollado durante el bootcamp. Las sugerencias y mejoras so
 
 Este proyecto es de uso educativo.
 
-Para acceder al repositorio en Github--> [gh repo clone Vanne-TD/weather-frontend-m2](https://github.com/Vanne-TD/weather-frontend-m2)
+Para acceder al repositorio en Github--> [gh Vanne-TD/weather-frontend-m2](https://github.com/Vanne-TD/weather-frontend-m2)
 
 
 ---
